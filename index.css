@@ -86,6 +86,7 @@ nav a:hover::before {
     margin-right: auto;
     width: fit-content;
     scale: 130%;
+    margin-bottom: 8%;
 }
 
 .footer {
