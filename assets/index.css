@@ -82,13 +82,23 @@ nav a:hover::before {
     text-decoration: none;
 }
 
+.list{
+    list-style: disc;
+    margin-left: 10%;
+}
+
 .projects {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: fit-content;
-    scale: 130%;
+    scale: 110%;
     margin-bottom: 8%;
+}
+
+.citation{
+    color: black;
+    font-size: x-small;
 }
 
 .footer {
