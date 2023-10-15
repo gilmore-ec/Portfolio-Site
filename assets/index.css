@@ -130,4 +130,16 @@ nav a:hover::before {
 .makewhite{
     background-color: white;
 }
+
+.underline{
+    display: block;
+    font-size: 3.5em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    text-decoration: underline;
+    text-decoration-color: rgb(15, 105, 15);
+    text-decoration-thickness: 1pt;
+}
 /*  This website was created by Timothy Gilmore for showcasing his portfolio of work. This code was published on GitHub to showcase web development competence, not to be reused.  */
