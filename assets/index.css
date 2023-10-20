@@ -160,4 +160,8 @@ nav a:hover::before {
     text-decoration-color: rgb(15, 105, 15);
     text-decoration-thickness: 1pt;
 }
+.contact {
+    display: inline-flexbox;
+    list-style-type: none;
+}
 /*  This website was created by Timothy Gilmore for showcasing his portfolio of work. This code was published on GitHub to showcase web development competence, not to be reused.  */
